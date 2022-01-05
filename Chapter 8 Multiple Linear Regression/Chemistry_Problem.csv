@@ -1,0 +1,6 @@
+﻿Readings Number,Temperature,Pressure
+R1,5,0.0003
+R2,25,0.0014
+R3,45,0.008
+R4,65,0.05
+R5,100,0.25
